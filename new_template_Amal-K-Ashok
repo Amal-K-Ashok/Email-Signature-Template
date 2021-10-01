@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Email Signature</title>
+  </head>
+  <body>
+    <table border="0" cellspacing="2" cellpadding="2"  style="width: 250px;box-shadow:0px 0px 10px #bbbbbb;
+    margin:100px auto;padding: 10px;background-color:powderblue;font-family: sans-serif;">
+<tr>
+		<td rowspan="2" style="margin: 0; padding: 0; border-right: dashed 0px; width: 71px">
+			<img style="display: block; border: none; width: 120px; height: 100px;" src="https://i.ibb.co/cvNJvdx/abc.jpg" style="max-width:100%; border:0px solid white"/><h4 style="margin: 0px 0px 0px; color:black; border-bottom:0px solid #ffffff;font-size: 15px;text-transform:uppercase;font-weight:normal;padding-bottom:10px"><strong>abc house</strong></h4>
+
+
+<h4 style="margin: 0px 0px 0px; color:black; border-bottom:0px solid #ffffff;font-size: 15px;text-transform:uppercase;font-weight:normal;padding-bottom:0px"><strong>xyz 956823, India</strong></h4>
+  </td>
+  <td width="65%" valign="top" style="padding-left: 30px">
+    <h1 style="margin:0px;color:black;font-size: 30px">AML</h1>
+    <h4 style="margin: 00px 0px 00px; color:black; border-bottom:0px solid #ffffff;font-size: 20px;text-transform:uppercase;font-weight:normal;padding-bottom:8px"><strong>Designation</strong></h4>
+    
+    <p style="margin:12px 0px; color: black;padding-left: 30px">
+      <tr>
+		<td colspan="2" style="margin: 0; padding: 0 3px; vertical-align: bottom; height: 40px">
+			<a style="margin: 00px 0px 00px;padding-left: 30px; color:black; border-bottom:0px solid #ffffff;font-size: 20px;font-weight:normal;padding-bottom:8px;padding-left: 20px"  href="https://google.com/"><img src="https://i.ibb.co/BtYnfZF/images-2.png" style="max-width:20px;vertical-align:middle;margin-right:2px "/>www.google.com</a>
+<p>
+			<a style="margin: 00px 0px 00px;padding-left: 20px; color:black; border-bottom:0px solid #ffffff;font-size: 20px;font-weight:normal;padding-bottom:8px;"  ><img src="https://i.ibb.co/FDh8mGW/gmail.png" style="max-width:20px;vertical-align:middle;margin-right:2px "/>abc@gmail.com</a>
+    </p>
+<p>
+			<a style="margin: 00px 0px 00px;padding-left: 20px; color:black; border-bottom:0px solid #ffffff;font-size: 20px;font-weight:normal;padding-bottom:8px; " href="tel:+91 9747369961"  ><img src="https://i.ibb.co/pJhmbnB/whatsapp.jpg" style="max-width:20px;vertical-align:middle;margin-right:2px "/>+91 9856316942</a>
+  <tr><td>  </p>
+    <p style="margin:12px 0px; color: black">
+     <a style="text-decoration: none; padding-left: 30px; height: 24px; display: block; float: left;" style="text-decoration: none; padding-right: 10px; height: 24px; display: block; float: left;" href="https://www.instagram.com/abc/?hl=en"><img src="https://i.ibb.co/1ng142q/insta.jpg" style="max-width:20px;vertical-align:middle;margin-right:2px"/></a>
+    </p>
+    
+    
+
+<p style="margin:12px 0px; color: black">
+      <a style="text-decoration: none; padding-right: 8px; height: 24px; display: block; float: left;" href="https://in.pinterest.com/abc/"><img src="https://i.ibb.co/pxxqSS6/images-27.jpg" style="max-width:20px;vertical-align:middle;margin-right:2px"/></a>
+    </p>
+
+    <p style="margin:12px 0px; color: black">
+      <a style="text-decoration: none; padding-right: 8px; height: 24px; display: block; float: left;" href="https://twitter.com/abc"><img src="https://i.ibb.co/b6yNz41/twitter.png" style="max-width:20px;vertical-align:middle;margin-right:2px"/></a>
+    </p>
+    <p style="margin:12px 0px; color: black">
+     <a style="text-decoration: none; padding-right: 8px; height: 24px;display: block; float: left;" href="https://www.facebook.com/pg/abc/about/?ref=page_internal"><img src="https://i.ibb.co/QCnsMFc/facebook.jpg" style="max-width:20px;vertical-align:middle;margin-right:2px"/></a>
+    </p>
+    <p style="margin:12px 0px; color: black">
+      <a href="https://www.linkedin.com/company/abc"><img src="https://i.ibb.co/5vL94R6/linkedin.png" style="max-width:20px;;margin-right:2px"/></a>
+    </p>
+
+  </td>
+</tr>
+<tr><th scope="col" colspan="2"><p style="font-size:50%;"> 
+*Important Notice*
+
+This email is confidential and should only be read by those persons to whom it is addressed,
+
+and the contents and attachments of this email must not be disclosed to any other without the prior 
+
+consent.
+</p></th></tr>
+<tr><th scope="col" colspan="2"><p style="padding-bottom:0px">
+<img src="https://i.ibb.co/d6rjWrb/ab.jpg" width="500px" height="100px">
+</p></th></tr>
+    </table>
+  </body>
+</html>
